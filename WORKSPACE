@@ -1,4 +1,4 @@
-workspace(name = "envoy_wasm_wenbin")
+workspace(name = "envoy_wasm_module")
 
 load("//bazel:envoy_http_archive.bzl", "proxy_wasm_cpp_sdk")
 
